@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivtej Mishra</h1>
 <h3 align="center">🌟 Tech Enthusiast with a Heart of Gold | Driven by the Magic of Design & Technology 🚀</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ndOenoG_z7Hh8RodPRoj2&ust=1694196758438000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCK_PKMmYEDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Codymonk/Codymonk/assets/79441908/11493699-602c-40c7-9d45-bef5f40c0f49)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codymonk&label=Profile%20views&color=0e75b6&style=flat" alt="codymonk" /> </p>
 
