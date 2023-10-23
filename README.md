@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/mishrashivtej" target="blank"><img src="https://img.shields.io/twitter/follow/mishrashivtej?logo=twitter&style=for-the-badge" alt="mishrashivtej" /></a> </p>
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Machine Learning and Blockchain Technology**
+- 🌱 I’m currently Working on a **Face Detection Attendance System Using Opencv**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
